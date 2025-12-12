@@ -1,4 +1,4 @@
-# Exchange
+# Automated On-Premises DL to Exchange Online Migration Toolkit
 PowerShell automation toolkit for Microsoft 365 &amp; Exchange Online. Includes scripts for directory management, messaging policies, DL migration, role-based administration, audits, reporting, and modern Graph-based automation
 
 This repository provides a complete end-to-end automation solution for migrating on-premises, directory-synchronized Distribution Lists (DLs) to cloud-native Exchange Online DLs. It includes:
