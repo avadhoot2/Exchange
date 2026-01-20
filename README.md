@@ -9,6 +9,3 @@ Basic auth is a legacy authentication method that sends usernames and passwords 
 1.2	Click on “New registration” 
 1.3	Define name of the Application as Exo SMTP <App or Service name>  Keep Redirect URI as blank à Click on Register 
 
- <img width="791" height="564" alt="image" src="https://github.com/user-attachments/assets/db170d44-9e54-499e-995c-d3bcb1d47a97" />
-
-<img width="975" height="546" alt="image" src="https://github.com/user-attachments/assets/adda535f-d724-4470-a513-d16ad6eca046" />
