@@ -25,5 +25,6 @@ Basic auth is a legacy authentication method that sends usernames and passwords 
 
 <img width="975" height="450" alt="image" src="https://github.com/user-attachments/assets/1eafd8a2-315a-47e3-a768-bbad2c5f5a78" />
 
+
 **Add App permissions**
 
