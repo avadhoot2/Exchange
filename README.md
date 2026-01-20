@@ -5,7 +5,7 @@ Basic auth is a legacy authentication method that sends usernames and passwords 
 **Configure SMTP with OAuth2 for Microsoft 365:**
 1.	Registration of Entra ID Application
 
-1.1	Login to Entra ID https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM 
-1.2	Click on “New registration” 
-1.3	Define name of the Application as Exo SMTP <App or Service name>  Keep Redirect URI as blank à Click on Register 
+  1.1	Login to Entra ID https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM 
+  1.2	Click on “New registration” 
+  1.3	Define name of the Application as Exo SMTP <App or Service name>  Keep Redirect URI as blank à Click on Register 
 
