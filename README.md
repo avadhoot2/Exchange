@@ -1,19 +1,42 @@
-**📌 Business Requirement**
+# Microsoft Teams PSTN Call Report Automation
 
-Organizations using **Microsoft Teams PSTN calling** often face challenges in:
+## Business Requirement
 
-•	Tracking **outbound and inbound PSTN calls**
+Organizations using Microsoft Teams PSTN calling require visibility into
+outbound and inbound call usage for auditing, billing, and monitoring purposes.
 
-•	Monitoring **call duration and usage**
+Manual extraction from Teams Admin Center is time-consuming and not scalable.
 
-•	Generating **periodic call reports** for management and finance teams
+---
 
-•	Manually exporting data from Teams Admin Center, which is:
+## Objective
 
-o	Time-consuming
+- Automate PSTN call report generation
+- Use Microsoft Graph API
+- Deliver reports via email
+- Eliminate manual effort
 
-o	Not scalable
+---
 
-o	Not automation-friendly
+## Solution Overview
 
+This solution uses:
 
+- Microsoft Graph API
+- PowerShell automation
+- Entra ID App Registration
+- Scheduled execution
+- Email delivery
+
+---
+
+## High-Level Architecture
+
+The solution follows the below workflow:
+
+- Scheduled execution using Task Scheduler or Azure Automation
+- PowerShell script initiates Microsoft Graph authentication
+- Microsoft Graph API retrieves Teams PSTN call records
+- Script processes and formats call data
+- Report is generated in CSV format
+- Email with report attachment is sent to stakeholders
