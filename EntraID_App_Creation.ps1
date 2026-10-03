@@ -478,13 +478,13 @@ The provisioning details are provided below.
 
     <li>
         If the secret is exposed or compromised, notify
-        <a href="mailto:SOC@solera.com">SOC@solera.com</a> immediately.
+        <a href="mailto:SOC@Domainname.com">SOC@Domainname.com</a> immediately.
     </li>
 
     <li>
-        Please notify Core Services by sending an email to
-        <a href="mailto:DL-WW-GIT-CoreServices@solera.com">
-            DL-WW-GIT-CoreServices@solera.com
+        Please notify respective Team by sending an email to
+        <a href="mailto:Sender@Domainname.com">
+            Sender@Domainname.com
         </a>
         immediately.
     </li>
@@ -506,7 +506,7 @@ Our team will contact you within 30 days before client expiry next year.
 
 <p><strong>
 Thanks and Regards,<br>
-Core services Team
+Team name
 <strong>
 </p>
 
@@ -682,7 +682,7 @@ try {
 
     $GroupAlias = $GroupName.ToLowerInvariant()
 
-    $GroupSmtp = "$GroupAlias@solera.com"
+    $GroupSmtp = "$GroupAlias@Domainname.com"
 
     $EXOServicePrincipalName = "EXO Graph $AppName"
 
