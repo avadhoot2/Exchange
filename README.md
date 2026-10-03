@@ -1,4 +1,4 @@
-# Entra ID Application Provisioning & Exchange Online Application RBAC Automation
+# Entra ID App creation & Exchange Online Application RBAC Automation
 
 ## Overview
 
